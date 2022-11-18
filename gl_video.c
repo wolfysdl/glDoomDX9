@@ -415,6 +415,8 @@ void I_InitGraphics(void)
 
 void GetGLInfo(HWND hWnd)
    {
+    char* szu, *tempstr;
+
     const GLubyte *szt;
 
     szt = glGetString(GL_VENDOR);

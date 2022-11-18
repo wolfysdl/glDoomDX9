@@ -1,0 +1,773 @@
+Platform is Windows NT Version 6.02 Build 9200
+Current resolution: 1360 x 768 x 32 bpp
+Resolution requested: 640 x 480 x 16 bpp
+Mode count : 600
+General Video Mode List
+Mode Width x Height x Color Bits - Refresh - Reboot?
+ 0     640     480        32          59       No
+ 1     640     480        32          60       No
+ 2     720     480        32          60       No
+ 3     720     480        32          59       No
+ 4     720     576        32          50       No
+ 5     800     600        32          60       No
+ 6    1024     768        32          60       No
+ 7    1152     864        32          60       No
+ 8    1176     664        32          50       No
+ 9    1176     664        32          50       No
+10    1176     664        32          50       No
+11    1176     664        32          60       No
+12    1176     664        32          60       No
+13    1176     664        32          60       No
+14    1176     664        32          59       No
+15    1176     664        32          59       No
+16    1176     664        32          59       No
+17    1280     720        32          60       No
+18    1280     720        32          59       No
+19    1280     720        32          50       No
+20    1280     768        32          60       No
+21    1280     768        32          60       No
+22    1280     768        32          60       No
+23    1280     800        32          60       No
+24    1280     800        32          60       No
+25    1280     800        32          60       No
+26    1280     800        32          59       No
+27    1280     800        32          59       No
+28    1280     800        32          59       No
+29    1280     800        32          50       No
+30    1280     800        32          50       No
+31    1280     800        32          50       No
+32    1280     800        32          24       No
+33    1280     800        32          24       No
+34    1280     800        32          24       No
+35    1280     800        32          23       No
+36    1280     800        32          23       No
+37    1280     800        32          23       No
+38    1280     800        32          25       No
+39    1280     800        32          25       No
+40    1280     800        32          25       No
+41    1280     800        32          30       No
+42    1280     800        32          30       No
+43    1280     800        32          30       No
+44    1280     800        32          29       No
+45    1280     800        32          29       No
+46    1280     800        32          29       No
+47    1280     960        32          60       No
+48    1280     960        32          60       No
+49    1280     960        32          60       No
+50    1280     960        32          59       No
+51    1280     960        32          59       No
+52    1280     960        32          59       No
+53    1280     960        32          50       No
+54    1280     960        32          50       No
+55    1280     960        32          50       No
+56    1280     960        32          24       No
+57    1280     960        32          24       No
+58    1280     960        32          24       No
+59    1280     960        32          23       No
+60    1280     960        32          23       No
+61    1280     960        32          23       No
+62    1280     960        32          25       No
+63    1280     960        32          25       No
+64    1280     960        32          25       No
+65    1280     960        32          30       No
+66    1280     960        32          30       No
+67    1280     960        32          30       No
+68    1280     960        32          29       No
+69    1280     960        32          29       No
+70    1280     960        32          29       No
+71    1280    1024        32          60       No
+72    1280    1024        32          60       No
+73    1280    1024        32          60       No
+74    1280    1024        32          59       No
+75    1280    1024        32          59       No
+76    1280    1024        32          59       No
+77    1280    1024        32          50       No
+78    1280    1024        32          50       No
+79    1280    1024        32          50       No
+80    1280    1024        32          24       No
+81    1280    1024        32          24       No
+82    1280    1024        32          24       No
+83    1280    1024        32          23       No
+84    1280    1024        32          23       No
+85    1280    1024        32          23       No
+86    1280    1024        32          25       No
+87    1280    1024        32          25       No
+88    1280    1024        32          25       No
+89    1280    1024        32          30       No
+90    1280    1024        32          30       No
+91    1280    1024        32          30       No
+92    1280    1024        32          29       No
+93    1280    1024        32          29       No
+94    1280    1024        32          29       No
+95    1360     768        32          60       No
+96    1366     768        32          60       No
+97    1366     768        32          60       No
+98    1366     768        32          60       No
+99    1366     768        32          59       No
+100    1366     768        32          59       No
+101    1366     768        32          59       No
+102    1366     768        32          50       No
+103    1366     768        32          50       No
+104    1366     768        32          50       No
+105    1366     768        32          24       No
+106    1366     768        32          24       No
+107    1366     768        32          24       No
+108    1366     768        32          23       No
+109    1366     768        32          23       No
+110    1366     768        32          23       No
+111    1366     768        32          25       No
+112    1366     768        32          25       No
+113    1366     768        32          25       No
+114    1366     768        32          30       No
+115    1366     768        32          30       No
+116    1366     768        32          30       No
+117    1366     768        32          29       No
+118    1366     768        32          29       No
+119    1366     768        32          29       No
+120    1600     900        32          60       No
+121    1600     900        32          60       No
+122    1600     900        32          60       No
+123    1600     900        32          59       No
+124    1600     900        32          59       No
+125    1600     900        32          59       No
+126    1600     900        32          50       No
+127    1600     900        32          50       No
+128    1600     900        32          50       No
+129    1600     900        32          24       No
+130    1600     900        32          24       No
+131    1600     900        32          24       No
+132    1600     900        32          23       No
+133    1600     900        32          23       No
+134    1600     900        32          23       No
+135    1600     900        32          25       No
+136    1600     900        32          25       No
+137    1600     900        32          25       No
+138    1600     900        32          30       No
+139    1600     900        32          30       No
+140    1600     900        32          30       No
+141    1600     900        32          29       No
+142    1600     900        32          29       No
+143    1600     900        32          29       No
+144    1600    1024        32          60       No
+145    1600    1024        32          60       No
+146    1600    1024        32          60       No
+147    1600    1024        32          59       No
+148    1600    1024        32          59       No
+149    1600    1024        32          59       No
+150    1600    1024        32          50       No
+151    1600    1024        32          50       No
+152    1600    1024        32          50       No
+153    1600    1024        32          24       No
+154    1600    1024        32          24       No
+155    1600    1024        32          24       No
+156    1600    1024        32          23       No
+157    1600    1024        32          23       No
+158    1600    1024        32          23       No
+159    1600    1024        32          25       No
+160    1600    1024        32          25       No
+161    1600    1024        32          25       No
+162    1600    1024        32          30       No
+163    1600    1024        32          30       No
+164    1600    1024        32          30       No
+165    1600    1024        32          29       No
+166    1600    1024        32          29       No
+167    1600    1024        32          29       No
+168    1680    1050        32          60       No
+169    1680    1050        32          60       No
+170    1680    1050        32          60       No
+171    1680    1050        32          59       No
+172    1680    1050        32          59       No
+173    1680    1050        32          59       No
+174    1680    1050        32          50       No
+175    1680    1050        32          50       No
+176    1680    1050        32          50       No
+177    1680    1050        32          24       No
+178    1680    1050        32          24       No
+179    1680    1050        32          24       No
+180    1680    1050        32          23       No
+181    1680    1050        32          23       No
+182    1680    1050        32          23       No
+183    1680    1050        32          25       No
+184    1680    1050        32          25       No
+185    1680    1050        32          25       No
+186    1680    1050        32          30       No
+187    1680    1050        32          30       No
+188    1680    1050        32          30       No
+189    1680    1050        32          29       No
+190    1680    1050        32          29       No
+191    1680    1050        32          29       No
+192    1920    1080        32          60       No
+193    1920    1080        32          59       No
+194    1920    1080        32          50       No
+195    1920    1080        32          24       No
+196    1920    1080        32          23       No
+197    1920    1080        32          25       No
+198    1920    1080        32          30       No
+199    1920    1080        32          29       No
+200     640     480        16          59       No
+201     640     480        16          60       No
+202     720     480        16          60       No
+203     720     480        16          59       No
+204     720     576        16          50       No
+205     800     600        16          60       No
+206    1024     768        16          60       No
+207    1152     864        16          60       No
+208    1176     664        16          50       No
+209    1176     664        16          50       No
+210    1176     664        16          50       No
+211    1176     664        16          60       No
+212    1176     664        16          60       No
+213    1176     664        16          60       No
+214    1176     664        16          59       No
+215    1176     664        16          59       No
+216    1176     664        16          59       No
+217    1280     720        16          60       No
+218    1280     720        16          59       No
+219    1280     720        16          50       No
+220    1280     768        16          60       No
+221    1280     768        16          60       No
+222    1280     768        16          60       No
+223    1280     800        16          60       No
+224    1280     800        16          60       No
+225    1280     800        16          60       No
+226    1280     800        16          59       No
+227    1280     800        16          59       No
+228    1280     800        16          59       No
+229    1280     800        16          50       No
+230    1280     800        16          50       No
+231    1280     800        16          50       No
+232    1280     800        16          24       No
+233    1280     800        16          24       No
+234    1280     800        16          24       No
+235    1280     800        16          23       No
+236    1280     800        16          23       No
+237    1280     800        16          23       No
+238    1280     800        16          25       No
+239    1280     800        16          25       No
+240    1280     800        16          25       No
+241    1280     800        16          30       No
+242    1280     800        16          30       No
+243    1280     800        16          30       No
+244    1280     800        16          29       No
+245    1280     800        16          29       No
+246    1280     800        16          29       No
+247    1280     960        16          60       No
+248    1280     960        16          60       No
+249    1280     960        16          60       No
+250    1280     960        16          59       No
+251    1280     960        16          59       No
+252    1280     960        16          59       No
+253    1280     960        16          50       No
+254    1280     960        16          50       No
+255    1280     960        16          50       No
+256    1280     960        16          24       No
+257    1280     960        16          24       No
+258    1280     960        16          24       No
+259    1280     960        16          23       No
+260    1280     960        16          23       No
+261    1280     960        16          23       No
+262    1280     960        16          25       No
+263    1280     960        16          25       No
+264    1280     960        16          25       No
+265    1280     960        16          30       No
+266    1280     960        16          30       No
+267    1280     960        16          30       No
+268    1280     960        16          29       No
+269    1280     960        16          29       No
+270    1280     960        16          29       No
+271    1280    1024        16          60       No
+272    1280    1024        16          60       No
+273    1280    1024        16          60       No
+274    1280    1024        16          59       No
+275    1280    1024        16          59       No
+276    1280    1024        16          59       No
+277    1280    1024        16          50       No
+278    1280    1024        16          50       No
+279    1280    1024        16          50       No
+280    1280    1024        16          24       No
+281    1280    1024        16          24       No
+282    1280    1024        16          24       No
+283    1280    1024        16          23       No
+284    1280    1024        16          23       No
+285    1280    1024        16          23       No
+286    1280    1024        16          25       No
+287    1280    1024        16          25       No
+288    1280    1024        16          25       No
+289    1280    1024        16          30       No
+290    1280    1024        16          30       No
+291    1280    1024        16          30       No
+292    1280    1024        16          29       No
+293    1280    1024        16          29       No
+294    1280    1024        16          29       No
+295    1360     768        16          60       No
+296    1366     768        16          60       No
+297    1366     768        16          60       No
+298    1366     768        16          60       No
+299    1366     768        16          59       No
+300    1366     768        16          59       No
+301    1366     768        16          59       No
+302    1366     768        16          50       No
+303    1366     768        16          50       No
+304    1366     768        16          50       No
+305    1366     768        16          24       No
+306    1366     768        16          24       No
+307    1366     768        16          24       No
+308    1366     768        16          23       No
+309    1366     768        16          23       No
+310    1366     768        16          23       No
+311    1366     768        16          25       No
+312    1366     768        16          25       No
+313    1366     768        16          25       No
+314    1366     768        16          30       No
+315    1366     768        16          30       No
+316    1366     768        16          30       No
+317    1366     768        16          29       No
+318    1366     768        16          29       No
+319    1366     768        16          29       No
+320    1600     900        16          60       No
+321    1600     900        16          60       No
+322    1600     900        16          60       No
+323    1600     900        16          59       No
+324    1600     900        16          59       No
+325    1600     900        16          59       No
+326    1600     900        16          50       No
+327    1600     900        16          50       No
+328    1600     900        16          50       No
+329    1600     900        16          24       No
+330    1600     900        16          24       No
+331    1600     900        16          24       No
+332    1600     900        16          23       No
+333    1600     900        16          23       No
+334    1600     900        16          23       No
+335    1600     900        16          25       No
+336    1600     900        16          25       No
+337    1600     900        16          25       No
+338    1600     900        16          30       No
+339    1600     900        16          30       No
+340    1600     900        16          30       No
+341    1600     900        16          29       No
+342    1600     900        16          29       No
+343    1600     900        16          29       No
+344    1600    1024        16          60       No
+345    1600    1024        16          60       No
+346    1600    1024        16          60       No
+347    1600    1024        16          59       No
+348    1600    1024        16          59       No
+349    1600    1024        16          59       No
+350    1600    1024        16          50       No
+351    1600    1024        16          50       No
+352    1600    1024        16          50       No
+353    1600    1024        16          24       No
+354    1600    1024        16          24       No
+355    1600    1024        16          24       No
+356    1600    1024        16          23       No
+357    1600    1024        16          23       No
+358    1600    1024        16          23       No
+359    1600    1024        16          25       No
+360    1600    1024        16          25       No
+361    1600    1024        16          25       No
+362    1600    1024        16          30       No
+363    1600    1024        16          30       No
+364    1600    1024        16          30       No
+365    1600    1024        16          29       No
+366    1600    1024        16          29       No
+367    1600    1024        16          29       No
+368    1680    1050        16          60       No
+369    1680    1050        16          60       No
+370    1680    1050        16          60       No
+371    1680    1050        16          59       No
+372    1680    1050        16          59       No
+373    1680    1050        16          59       No
+374    1680    1050        16          50       No
+375    1680    1050        16          50       No
+376    1680    1050        16          50       No
+377    1680    1050        16          24       No
+378    1680    1050        16          24       No
+379    1680    1050        16          24       No
+380    1680    1050        16          23       No
+381    1680    1050        16          23       No
+382    1680    1050        16          23       No
+383    1680    1050        16          25       No
+384    1680    1050        16          25       No
+385    1680    1050        16          25       No
+386    1680    1050        16          30       No
+387    1680    1050        16          30       No
+388    1680    1050        16          30       No
+389    1680    1050        16          29       No
+390    1680    1050        16          29       No
+391    1680    1050        16          29       No
+392    1920    1080        16          60       No
+393    1920    1080        16          59       No
+394    1920    1080        16          50       No
+395    1920    1080        16          24       No
+396    1920    1080        16          23       No
+397    1920    1080        16          25       No
+398    1920    1080        16          30       No
+399    1920    1080        16          29       No
+400     640     480         8          59       No
+401     640     480         8          60       No
+402     720     480         8          60       No
+403     720     480         8          59       No
+404     720     576         8          50       No
+405     800     600         8          60       No
+406    1024     768         8          60       No
+407    1152     864         8          60       No
+408    1176     664         8          50       No
+409    1176     664         8          50       No
+410    1176     664         8          50       No
+411    1176     664         8          60       No
+412    1176     664         8          60       No
+413    1176     664         8          60       No
+414    1176     664         8          59       No
+415    1176     664         8          59       No
+416    1176     664         8          59       No
+417    1280     720         8          60       No
+418    1280     720         8          59       No
+419    1280     720         8          50       No
+420    1280     768         8          60       No
+421    1280     768         8          60       No
+422    1280     768         8          60       No
+423    1280     800         8          60       No
+424    1280     800         8          60       No
+425    1280     800         8          60       No
+426    1280     800         8          59       No
+427    1280     800         8          59       No
+428    1280     800         8          59       No
+429    1280     800         8          50       No
+430    1280     800         8          50       No
+431    1280     800         8          50       No
+432    1280     800         8          24       No
+433    1280     800         8          24       No
+434    1280     800         8          24       No
+435    1280     800         8          23       No
+436    1280     800         8          23       No
+437    1280     800         8          23       No
+438    1280     800         8          25       No
+439    1280     800         8          25       No
+440    1280     800         8          25       No
+441    1280     800         8          30       No
+442    1280     800         8          30       No
+443    1280     800         8          30       No
+444    1280     800         8          29       No
+445    1280     800         8          29       No
+446    1280     800         8          29       No
+447    1280     960         8          60       No
+448    1280     960         8          60       No
+449    1280     960         8          60       No
+450    1280     960         8          59       No
+451    1280     960         8          59       No
+452    1280     960         8          59       No
+453    1280     960         8          50       No
+454    1280     960         8          50       No
+455    1280     960         8          50       No
+456    1280     960         8          24       No
+457    1280     960         8          24       No
+458    1280     960         8          24       No
+459    1280     960         8          23       No
+460    1280     960         8          23       No
+461    1280     960         8          23       No
+462    1280     960         8          25       No
+463    1280     960         8          25       No
+464    1280     960         8          25       No
+465    1280     960         8          30       No
+466    1280     960         8          30       No
+467    1280     960         8          30       No
+468    1280     960         8          29       No
+469    1280     960         8          29       No
+470    1280     960         8          29       No
+471    1280    1024         8          60       No
+472    1280    1024         8          60       No
+473    1280    1024         8          60       No
+474    1280    1024         8          59       No
+475    1280    1024         8          59       No
+476    1280    1024         8          59       No
+477    1280    1024         8          50       No
+478    1280    1024         8          50       No
+479    1280    1024         8          50       No
+480    1280    1024         8          24       No
+481    1280    1024         8          24       No
+482    1280    1024         8          24       No
+483    1280    1024         8          23       No
+484    1280    1024         8          23       No
+485    1280    1024         8          23       No
+486    1280    1024         8          25       No
+487    1280    1024         8          25       No
+488    1280    1024         8          25       No
+489    1280    1024         8          30       No
+490    1280    1024         8          30       No
+491    1280    1024         8          30       No
+492    1280    1024         8          29       No
+493    1280    1024         8          29       No
+494    1280    1024         8          29       No
+495    1360     768         8          60       No
+496    1366     768         8          60       No
+497    1366     768         8          60       No
+498    1366     768         8          60       No
+499    1366     768         8          59       No
+500    1366     768         8          59       No
+501    1366     768         8          59       No
+502    1366     768         8          50       No
+503    1366     768         8          50       No
+504    1366     768         8          50       No
+505    1366     768         8          24       No
+506    1366     768         8          24       No
+507    1366     768         8          24       No
+508    1366     768         8          23       No
+509    1366     768         8          23       No
+510    1366     768         8          23       No
+511    1366     768         8          25       No
+512    1366     768         8          25       No
+513    1366     768         8          25       No
+514    1366     768         8          30       No
+515    1366     768         8          30       No
+516    1366     768         8          30       No
+517    1366     768         8          29       No
+518    1366     768         8          29       No
+519    1366     768         8          29       No
+520    1600     900         8          60       No
+521    1600     900         8          60       No
+522    1600     900         8          60       No
+523    1600     900         8          59       No
+524    1600     900         8          59       No
+525    1600     900         8          59       No
+526    1600     900         8          50       No
+527    1600     900         8          50       No
+528    1600     900         8          50       No
+529    1600     900         8          24       No
+530    1600     900         8          24       No
+531    1600     900         8          24       No
+532    1600     900         8          23       No
+533    1600     900         8          23       No
+534    1600     900         8          23       No
+535    1600     900         8          25       No
+536    1600     900         8          25       No
+537    1600     900         8          25       No
+538    1600     900         8          30       No
+539    1600     900         8          30       No
+540    1600     900         8          30       No
+541    1600     900         8          29       No
+542    1600     900         8          29       No
+543    1600     900         8          29       No
+544    1600    1024         8          60       No
+545    1600    1024         8          60       No
+546    1600    1024         8          60       No
+547    1600    1024         8          59       No
+548    1600    1024         8          59       No
+549    1600    1024         8          59       No
+550    1600    1024         8          50       No
+551    1600    1024         8          50       No
+552    1600    1024         8          50       No
+553    1600    1024         8          24       No
+554    1600    1024         8          24       No
+555    1600    1024         8          24       No
+556    1600    1024         8          23       No
+557    1600    1024         8          23       No
+558    1600    1024         8          23       No
+559    1600    1024         8          25       No
+560    1600    1024         8          25       No
+561    1600    1024         8          25       No
+562    1600    1024         8          30       No
+563    1600    1024         8          30       No
+564    1600    1024         8          30       No
+565    1600    1024         8          29       No
+566    1600    1024         8          29       No
+567    1600    1024         8          29       No
+568    1680    1050         8          60       No
+569    1680    1050         8          60       No
+570    1680    1050         8          60       No
+571    1680    1050         8          59       No
+572    1680    1050         8          59       No
+573    1680    1050         8          59       No
+574    1680    1050         8          50       No
+575    1680    1050         8          50       No
+576    1680    1050         8          50       No
+577    1680    1050         8          24       No
+578    1680    1050         8          24       No
+579    1680    1050         8          24       No
+580    1680    1050         8          23       No
+581    1680    1050         8          23       No
+582    1680    1050         8          23       No
+583    1680    1050         8          25       No
+584    1680    1050         8          25       No
+585    1680    1050         8          25       No
+586    1680    1050         8          30       No
+587    1680    1050         8          30       No
+588    1680    1050         8          30       No
+589    1680    1050         8          29       No
+590    1680    1050         8          29       No
+591    1680    1050         8          29       No
+592    1920    1080         8          60       No
+593    1920    1080         8          59       No
+594    1920    1080         8          50       No
+595    1920    1080         8          24       No
+596    1920    1080         8          23       No
+597    1920    1080         8          25       No
+598    1920    1080         8          30       No
+599    1920    1080         8          29       No
+GDI Console startup
+glDoom Version 0.95A
+Starting OpenGL...
+Attempting to ChoosePixelFormat...
+Pixel Format    : 9
+Version         : 1
+Flags           : PFD_DRAW_TO_WINDOW
+Flags           : PFD_SUPPORT_OPENGL
+Flags           : PFD_DOUBLEBUFFER
+ColorBits       : 32
+RedBits         : 8
+RedShift        : 16
+GreenBits       : 8
+GreenShift      : 8
+BlueBits        : 8
+BlueShift       : 0
+AlphaBits       : 0
+AlphaShift      : 0
+AccumBits       : 64
+AccumRedBits    : 16
+AccumGreenBits  : 16
+AccumBlueBits   : 16
+AccumAlphaBits  : 16
+DepthBits       : 24
+StencilBits     : 0
+AuxBuffers      : 4
+LayerType       : 0
+OpenGL Console - Startup
+OpenGL Vendor   : NVIDIA Corporation
+OpenGL Renderer : NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+OpenGL Version  : 4.6.0 NVIDIA 516.94
+OpenGL Extension : GL_AMD_multi_draw_indirect
+OpenGL Extension : GL_AMD_seamless_cubemap_per_texture
+OpenGL Extension : GL_AMD_vertex_shader_viewport_index
+OpenGL Extension : GL_AMD_vertex_shader_layer
+OpenGL Extension : GL_ARB_arrays_of_arrays
+OpenGL Extension : GL_ARB_base_instance
+OpenGL Extension : GL_ARB_bindless_texture
+OpenGL Extension : GL_ARB_blend_func_extended
+OpenGL Extension : GL_ARB_buffer_storage
+OpenGL Extension : GL_ARB_clear_buffer_object
+OpenGL Extension : GL_ARB_clear_texture
+OpenGL Extension : GL_ARB_clip_control
+OpenGL Extension : GL_ARB_color_buffer_float
+OpenGL Extension : GL_ARB_compatibility
+OpenGL Extension : GL_ARB_compressed_texture_pixel_storage
+OpenGL Extension : GL_ARB_conservative_depth
+OpenGL Extension : GL_ARB_compute_shader
+OpenGL Extension : GL_ARB_compute_variable_group_size
+OpenGL Extension : GL_ARB_conditional_render_inverted
+OpenGL Extension : GL_ARB_copy_buffer
+OpenGL Extension : GL_ARB_copy_image
+OpenGL Extension : GL_ARB_cull_distance
+OpenGL Extension : GL_ARB_debug_output
+OpenGL Extension : GL_ARB_depth_buffer_float
+OpenGL Extension : GL_ARB_depth_clamp
+OpenGL Extension : GL_ARB_depth_texture
+OpenGL Extension : GL_ARB_derivative_control
+OpenGL Extension : GL_ARB_direct_state_access
+OpenGL Extension : GL_ARB_draw_buffers
+OpenGL Extension : GL_ARB_draw_buffers_blend
+OpenGL Extension : GL_ARB_draw_indirect
+OpenGL Extension : GL_ARB_draw_elements_base_vertex
+OpenGL Extension : GL_ARB_draw_instanced
+OpenGL Extension : GL_ARB_enhanced_layouts
+OpenGL Extension : GL_ARB_ES2_compatibility
+OpenGL Extension : GL_ARB_ES3_compatibility
+OpenGL Extension : GL_ARB_ES3_1_compatibility
+OpenGL Extension : GL_ARB_ES3_2_compatibility
+OpenGL Extension : GL_ARB_explicit_attrib_location
+OpenGL Extension : GL_ARB_explicit_uniform_location
+OpenGL Extension : GL_ARB_fragment_coord_conventions
+OpenGL Extension : GL_ARB_fragment_layer_viewport
+OpenGL Extension : GL_ARB_fragment_program
+OpenGL Extension : GL_ARB_fragment_program_shadow
+OpenGL Extension : GL_ARB_fragment_shader
+OpenGL Extension : GL_ARB_fragment_shader_interlock
+OpenGL Extension : GL_ARB_framebuffer_no_attachments
+OpenGL Extension : GL_ARB_framebuffer_object
+OpenGL Extension : GL_ARB_framebuffer_sRGB
+OpenGL Extension : GL_ARB_geometry_shader4
+OpenGL Extension : GL_ARB_get_program_binary
+OpenGL Extension : GL_ARB_get_texture_sub_image
+OpenGL Extension : GL_ARB_gl_spirv
+OpenGL Extension : GL_ARB_gpu_shader5
+OpenGL Extension : GL_ARB_gpu_shader_fp64
+OpenGL Extension : GL_ARB_gpu_shader_int64
+OpenGL Extension : GL_ARB_half_float_pixel
+OpenGL Extension : GL_ARB_half_float_vertex
+OpenGL Extension : GL_ARB_imaging
+OpenGL Extension : GL_ARB_indirect_parameters
+OpenGL Extension : GL_ARB_instanced_arrays
+OpenGL Extension : GL_ARB_internalformat_query
+OpenGL Extension : GL_ARB_internalformat_query2
+OpenGL Extension : GL_ARB_invalidate_subdata
+OpenGL Extension : GL_ARB_map_buffer_alignment
+OpenGL Extension : GL_ARB_map_buffer_range
+OpenGL Extension : GL_ARB_multi_bind
+OpenGL Extension : GL_ARB_multi_draw_indirect
+OpenGL Extension : GL_ARB_multisample
+OpenGL Extension : GL_ARB_multitexture
+OpenGL Extension : GL_ARB_occlusion_query
+OpenGL Extension : GL_ARB_occlusion_query2
+OpenGL Extension : GL_ARB_parallel_shader_compile
+OpenGL Extension : GL_ARB_pipeline_statistics_query
+OpenGL Extension : GL_ARB_pixel_buffer_object
+OpenGL Extension : GL_ARB_point_parameters
+OpenGL Extension : GL_ARB_point_sprite
+OpenGL Extension : GL_ARB_polygon_offset_clamp
+OpenGL Extension : GL_ARB_post_depth_coverage
+OpenGL Extension : GL_ARB_program_interface_query
+OpenGL Extension : GL_ARB_provoking_vertex
+OpenGL Extension : GL_ARB_query_buffer_object
+OpenGL Extension : GL_ARB_robust_buffer_access_behavior
+OpenGL Extension : GL_ARB_robustness
+OpenGL Extension : GL_ARB_sample_locations
+OpenGL Extension : GL_ARB_sample_shading
+OpenGL Extension : GL_ARB_sampler_objects
+OpenGL Extension : GL_ARB_seamless_cube_map
+OpenGL Extension : GL_ARB_seamless_cubemap_per_texture
+OpenGL Extension : GL_ARB_separate_shader_objects
+OpenGL Extension : GL_ARB_shader_atomic_counter_ops
+OpenGL Extension : GL_ARB_shader_atomic_counters
+OpenGL Extension : GL_ARB_shader_ballot
+OpenGL Extension : GL_ARB_shader_bit_encoding
+OpenGL Extension : GL_ARB_shader_clock
+OpenGL Extension : GL_ARB_shader_draw_parameters
+OpenGL Extension : GL_ARB_shader_group_vote
+OpenGL Extension : GL_ARB_shader_image_load_store
+OpenGL Extension : GL_ARB_shader_image_size
+OpenGL Extension : GL_ARB_shader_objects
+OpenGL Extension : GL_ARB_shader_precision
+OpenGL Extension : GL_ARB_shader_storage_buffer_object
+OpenGL Extension : GL_ARB_shader_subroutine
+OpenGL Extension : GL_ARB_shader_texture_image_samples
+OpenGL Extension : GL_ARB_shader_texture_lod
+OpenGL Extension : GL_ARB_shading_language_100
+OpenGL Extension : GL_ARB_shader_viewport_layer_array
+OpenGL Extension : GL_ARB_shading_language_420pack
+OpenGL Extension : GL_ARB_shading_language_include
+OpenGL Extension : GL_ARB_shading_language_packing
+OpenGL Extension : GL_ARB_shadow
+OpenGL Extension : GL_ARB_sparse_buffer
+OpenGL Extension : GL_ARB_sparse_texture
+OpenGL Extension : GL_ARB_sparse_texture2
+OpenGL Extension : GL_ARB_sparse_texture_clamp
+OpenGL Extension : GL_ARB_spirv_extensions
+OpenGL Extension : GL_ARB_stencil_texturing
+OpenGL Extension : GL_ARB_sync
+OpenGL Extension : GL_ARB_tessellation_shader
+OpenGL Extension : GL_ARB_texture_barrier
+OpenGL Extension : GL_ARB_texture_border_clamp
+OpenGL Extension : GL_ARB_texture_buffer_object
+OpenGL Extension : GL_ARB_texture_buffer_object_rgb32
+OpenGL Extension : GL_ARB_texture_buffer_range
+OpenGL Extension : GL_ARB_texture_compression
+OpenGL Extension : GL_ARB_texture_compression_bptc
+OpenGL Extension : GL_ARB_texture_compression_rgtc
+OpenGL Extension : GL_ARB_texture_cube_map
+End of OpenGL extensions...
+Display: 640x480x16 bpp
+Beginning DOOM code startup...
+M_loadDefaults: Load system defaults.
+Wad does not exist. Checking standard WADs
+Standard game not specified - checking.
+Wad file does not exist. Checking standard WADs
+Exiting glDoom...

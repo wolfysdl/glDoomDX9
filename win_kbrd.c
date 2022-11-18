@@ -5,6 +5,7 @@
 // and shutting down the keyboard interface and DirectInput.
 
 #include <windows.h>
+#include <xinput.h>
 #include <dinput.h>
 #include <stdio.h>
 
